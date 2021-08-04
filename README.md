@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alta-max
-- 👀 I’m interested in web devolopment
-- 🌱 Javascript || React || MERN Stack
+- 🌱 Javascript || React || MERN Stack 
 - 📫 How to reach me altamashsayed47@gmail.com
 
 <!---
