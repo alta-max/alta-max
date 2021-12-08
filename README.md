@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alta-max
-- 🌱 Javascript || React || MERN Stack 
+- 🌱 Full Stack Web and Mobile Developer
 - 📫 How to reach me altamashsayed47@gmail.com
 
 <!---
