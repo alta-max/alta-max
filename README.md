@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alta-max
-- 🌱 Full Stack Web and Mobile Developer
+- 🌱 Developer (Mobile, Web, Desktop)
 - 📫 How to reach me altamashsayed47@gmail.com
 
 <!---
